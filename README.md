@@ -1,5 +1,5 @@
 # Previsão de consumo de energia de carros elétricos
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DaniloTAbreu/Projeto1/new/main) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DaniloTAbreu/Projeto1/blob/main/LICENSE) 
 
 # Sobre o projeto
 
