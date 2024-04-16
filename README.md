@@ -7,7 +7,7 @@ Construir um modelo de Machine Learning capaz de prever o consumo de energia de 
 
 
 # Tecnologias utilizadas
-## linguagem
+## Linguagem
 - R
 - Arquivo.Rmd
 
@@ -23,4 +23,4 @@ Construir um modelo de Machine Learning capaz de prever o consumo de energia de 
 
 Danilo Temerloglou de Abreu
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/danilo-temerloglou-de-abreu-27182950/
